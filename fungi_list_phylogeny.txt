@@ -1,0 +1,721 @@
+=Eryha1
+***BASIDIOMYCOTA::Pucciniomycotina::Cystobasidiomycetes::Erythrobasidiales
+#Erythrobasidium hasegawianum
+=Agahy1
+=Chiap1
+***BASIDIOMYCOTA::Pucciniomycotina::Agaricostilbomycetes::Agaricostilbales
+#Agaricostilbum hyphaenes
+#Chionosphaera apobasidialis
+=Atrsp2
+***BASIDIOMYCOTA::Pucciniomycotina::Atractiellomycetes::Atractiellales
+#Atractiellales sp
+=Rhoba1_1
+***BASIDIOMYCOTA::Pucciniomycotina::Uredinomycetes::Sporidiales
+#Rhodotorula graminis
+=Mellp1
+=Croqu1
+Uredinomycetes::Uredinales
+#Melampsora laricispopulina
+#Cronartium quercuum
+=Hetpy1
+***BASIDIOMYCOTA::Pucciniomycotina::Microbotryomycetes::Heterogastridiales
+#Heterogastridium pycnidioideum
+=Spoli1
+***BASIDIOMYCOTA::Pucciniomycotina::Microbotryomycetes::Sporidiobolales
+#Sporobolomyces linderae
+=Mixos1
+***BASIDIOMYCOTA::Pucciniomycotina::Mixiomycetes::Mixiales
+#Mixia osmundae
+=Naifl1
+***BASIDIOMYCOTA::Pucciniomycotina::Classiculomycetes::Classiculales
+#Naiadella fluitans
+=Pucgr1
+***BASIDIOMYCOTA::Pucciniomycotina::Pucciniomycetes::Pucciniales
+#Puccinia graminis
+=Trisp1
+***BASIDIOMYCOTA::Pucciniomycotina::Tritirachiomycetes::Tritirachales
+#Tritirachium sp
+=Exova1
+=Meimi1
+=Malgl1
+***BASIDIOMYCOTA::Ustilaginomycotina::Exobasidiomycetes::Exobasidiales
+#Exobasidium vaccinii
+#Meira miltonrushii
+#Malessezia sp 
+=Jamsp1
+=Rhodsp1
+***BASIDIOMYCOTA::Ustilaginomycotina::Exobasidiomycetes::Microstromatales
+#Jaminaea sp
+#Microstromatales sp
+=Malg1
+***BASIDIOMYCOTA::Ustilaginomycotina::Exobasidiomycetes::Malasseziales
+#Malassezia globosa
+=Tilan2
+***BASIDIOMYCOTA::Ustilaginomycotina::Exobasidiomycetes::Georgefischeriales
+#Tilletiaria anomala
+=Tilwa1
+***BASIDIOMYCOTA::Ustilaginomycotina::Exobasidiomycetes::Entylomatales
+#Tilletiopsis washingtonensis
+=Psean1_1
+=Rhoto1
+=Spore1
+=Tescy1
+=Ustma1
+***BASIDIOMYCOTA::Ustilaginomycotina::Ustilaginomycetes::Ustilaginales
+#Pseudozyma antarctica 
+#Rhodosporidium toruloides
+#Sporisorium reilianum
+#Testicularia cyperi
+#Ustilago maydis
+=Corgl3
+=Copci1
+=Agabi_varbisH97_2
+=Amamu1
+=Armme1_1
+=Fishe1
+=Galma1
+=Guyne1
+=Gymch1
+=Gymlu1
+=Hebcy2
+=Hypsu1
+=Lacbi2
+=Leugo1_1
+=Macfu1
+=Marfi1
+=Monpe1_1
+=Panst_KUC8834_1_1
+=PleosPC15_1
+=PleosPC15_2
+=Plicr1
+=Ricme1
+=Schco3
+=Trima3
+=Volvo1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Agaricales
+#Cortinarius glaucopus
+#Coprinopsis cinerea 
+#Agaricus bisporus
+#Amanita muscaria
+#Armillaria mellea
+#Fistulina hepatica
+#Galerina marginata
+#Guyanagaster necrorhiza
+#Gymnopilus chrysopellus
+#Gymnopus luxurians
+#Hebeloma cylindrosporum
+#Hypholoma sublateritium
+#Laccaria bicolor
+#Leucoagaricus gongylophorus
+#Macrolepiota fuliginosa
+#Marasmius fiardii
+#Moniliophthora perniciosa
+#Panellus stipticus 
+#Pleurotus ostreatus
+#Plicaturopsis crispa 
+#Rickenella mellea
+#Schizophyllum commune
+#Tricholoma matsutake
+#Volvariella volvacea
+=Daequ1
+=Cerun2
+=Cersu1
+=Bjead1_1
+=Antsi1
+=Artel1
+=Dicsq1
+=Fibra1
+=Fompi3
+=Gansp1
+=Laesu1
+=Leisp1
+=Sisbr1
+=Obbri1
+=Panru1
+=Phaca1
+=Phlgi1
+=Polar1
+=Pospl1
+=Pycci1
+=Trave1
+=Triab1_1
+=Wolco1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Polyporales
+#Daedalea quercina
+#Cerrena unicolor
+#Ceriporiopsis subvermispora
+#Bjerkandera adusta
+#Antrodia sinuosa
+#Artolenzites elegans
+#Dichomitus squalens
+#Fibroporia radiculosa
+#Fomitopsis pinicola 
+#Ganoderma sp
+#Laetiporus sulphureus
+#Leiotrametes sp
+#Lentinus tigrinus
+#Obba rivulosa
+#Panus rudis
+#Phanerochaete carnosa
+#Phlebiopsis gigantea
+#Polyporus arcularius
+#Postia placenta 
+#Pycnoporus cinnabarinus
+#Trametes versicolor
+#Trichaptum abietinum
+#Wolfiporia cocos 
+=Aurde3_1
+=Exigl1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Auriculariales
+#Auricularia subglabra
+#Exidia glandulosa 
+=Clapy1
+=Aurvu1
+=Hetan2
+=Stehi1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Russulales
+#Clavicorona pyxidata
+#Auriscalpium vulgare
+#Heterobasidion annosum 
+#Stereum hirsutum
+=Conpu1
+=Boled1
+=Gyrli1
+=Hydpi2
+=Leumo1
+=Paxin1
+=Pismi1
+=Rhivi1
+=Sclci1
+=SerlaS7_3_2
+=Suibr1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Boletales
+#Coniophora puteana
+#Boletus edulis
+#Gyrodon lividus 
+#Hydnomerulius pinastri
+#Leucogyrophana mollusca
+#Paxillus involutus
+#Pisolithus microcarpus
+#Rhizopogon vinicolor
+#Scleroderma citrinum 
+#Serpula lacrymans 
+#Suillus brevipes
+=ClaPMI390
+=Botbo1
+=Rhiso1
+=Tulca1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Cantharellales
+#Clavulina sp
+#Botryobasidium botryosum 
+#Rhizoctonia solani
+#Tulasnella calospora
+=Denbi1
+=Cylto1
+=Phlbr1
+=Punst1
+=Schpa1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Corticiales
+#Dendrothele bispora
+#Cylindrobasidium torrendii
+#Phlebia brevispora
+#Punctularia strigosozonata
+#Schizopora paradoxa
+=Fibsp1
+=Pilcr1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Atheliales
+#Fibulorhizoctonia sp
+#Piloderma croceum 
+=Fomme1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Hymenochaetales
+#Fomitiporia mediterranea
+=Glotr1_1
+=Neole1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Gloeophyllales
+#Gloeophyllum trabeum 
+#Neolentinus lepideus
+=Jaaar1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Jaapiales
+#Jaapia argillacea
+=Pirin1
+=Sebve1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Sebacinales
+#Piriformospora indica
+#Sebacina vermifera
+=Ramac1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Gomphales
+#Ramaria acris
+=Sisni1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Trechisporales
+#Sistotremastrum niveocremeum
+=Sphst1
+***BASIDIOMYCOTA::Agaricomycotina::Agaricomycetes::Geastrales
+#Sphaerobolus stellatus
+=Elmca1
+=Diocr1
+=Treme1
+=Triol1
+***BASIDIOMYCOTA::Agaricomycotina::Tremellomycetes::Tremellales
+#Elmerina caryae
+#Dioszegia cryoxerica
+#Tremella mesenterica
+#Trichosporon oleaginosus
+=Calco1
+=Dacsp1
+***BASIDIOMYCOTA::Agaricomycotina::Dacrymycetes::Dacrymycetales
+#Calocera cornea
+#Dacryopinax sp
+
+=Ascim1
+=Ascni1
+=Chove1
+=Morco1
+=Pyrco1
+=Terbo2
+=Tubme1
+=Wilmi1
+***ASCOMYCOTA::Pezizomycotina::Pezizomycetes::Pezizales
+#Ascobolus immersus
+#Ascodesmis nigricans
+#Choiromyces venosus
+#Morchella conica
+#Pyronema confluens
+#Terfezia boudieri
+#Tuber melanosporum
+#Wilcoxina mikolae
+=Artol1
+=Monha1
+***ASCOMYCOTA::Pezizomycotina::Orbiliomycetes::Orbiliales
+#Arthrobotrys oligospora
+#Monacrosporium haptotylum
+=Aspfl1
+=Eurhe1
+=Monru1
+=Neofi1
+=PenchWisc1_1
+=Pench1
+=Theau1
+***ASCOMYCOTA::Pezizomycotina::Eurotiomycetes::Eurotiales
+#Aspergillus flavus
+#Eurotium herbariorum
+#Monascus ruber
+#Neosartorya fischeri
+#Penicillium chrysogenum
+#Thermoascus aurantiacus 
+=Artbe1
+=Cocim1
+=Gymau1
+=Hisca1
+=Micca1
+=Parbr1
+=Triru1
+=Uncre1
+***ASCOMYCOTA::Pezizomycotina::Eurotiomycetes::Onygenales
+#Arthrodema benhamiae
+#Coccidioides immitis
+#Gymnascella aurantica 
+#Histoplasma capsulatum
+#Microsporum canis
+#Paracoccidioides brasiliensis
+#Trichophyton rubrum
+#Uncinocarpus reesii
+=Aaoar1
+=Altal1
+=Amnli1
+=Bimnz1
+=Bysci1
+=Clael1
+=Cocca1
+=Corca1
+=Cucbe1
+=Delco1
+=Didex1
+=Dotsy1
+=Karrh1
+=Lenfl1
+=Lepmu1
+=Linin1
+=Lopma1
+=Macan1
+=Maseb1
+=Melpu1
+=Ophdi1
+=Parsp1
+=Photr1
+=Plesi1
+=Polfu1
+=Pyrsp1
+=Pytr1
+=PTRG
+=Settu1
+=Spofi1
+=Stano2
+=Trepe1
+=Tribi1
+=Veren1
+=Wesor1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Pleosporales
+#Aaosphaeria arxii
+#Alternaria alternata
+#Amniculicola lignicola
+#Bimuria novaezelandiae
+#Byssothecium circinans
+#Clathrospora elynae 
+#Cochliobolus carbonum
+#Corynespora cassicola
+#Cucurbitaria berberidis
+#Delitschia confertaspora
+#Didymella exiqua
+#Dothidotthia symphoricarpi 
+#Karstenula rhodostoma
+#Lentithecium fluviatile 
+#Leptosphaeria maculans
+#Lindgomyces ingoldianus
+#Lophiostoma macrostomum
+#Macroventuria anomochaeta
+#Massarina eburnea
+#Melanomma pulvispyrius
+#Ophiobolus disseminans
+#Paraconiothyrium sporulosum
+#Phoma tracheiphila
+#Pleomassaria siparia
+#Polyplosphaeria fusca
+#Pyrenochaeta sp
+#Pyrenophora triticirepentis
+#Setosphaeria turcica
+#Sporormia fimetaria
+#Stagonospora nodorum
+#Trematosphaeria pertusa
+#Trichodelitschia bisporula
+#Verruculina enalia
+#Westerdykella ornata
+=Cenge3
+=Glost2
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Pleosporomycetidae_incertae
+#Cenococcum geophilum
+#Glonium stellatum
+=Aciri1_meta
+=Aplpr1
+=Aulhe2
+=Botdo1_1
+=Erebi1
+=Leppa1
+=Macph1
+=Neopa1
+=Patat1
+=Phycit1
+=Sacpr1
+=Totfu1
+=Tryvi1
+=Venin1
+=Zoprh1
+=Zymar1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Dothideomycetes_incertae
+#Acidomyces richmondensis
+#Aplosporella prunicola
+#Aulographum hederae
+#Botryosphaeria dothidea
+#Eremomyces bilateralis
+#Lepidopterella palustris
+#Macrophomina phaseolina
+#Neofusicoccum parvum
+#Patellaria atrata 
+#Phyllosticta citriasiana
+#Saccharata proteae
+#Tothia fuscella
+#Trypethelium virens
+#Venturia inaequalis
+#Zopfia rhizophila
+#Zymoseptoria ardabiliae
+=Aurpu_var_mel1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Dothideales
+#Aureobasidium pullulans
+=Bauco1
+=Cerzm1
+=Clafu1
+=Disac1
+=Dotse1
+=Mycgr3
+=Pieho1_1
+=Polci1
+=Psehy1
+=Seppo1
+=Ternu1
+=Zasce1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Capnodiales
+#Baudoinia compniacensis
+#Cercospora zeaemaydis
+#Cladosporium fulvum
+#Dissoconium aciculare
+#Dothistroma septosporum
+#Mycosphaerella graminicola
+#Piedraia hortae
+#Polychaeton citri
+#Pseudovirgaria hyperparasitica
+#Septoria populicola
+#Teratosphaeria nubilosa
+#Zasmidium cellare
+=Hyspu1_1
+=Rhyru1_1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Hysteriales
+#Hysterium pulicare
+#Rhytidhysteron rufulum
+=Lopmy1
+=Mytre1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Mytilinidiales
+#Lophium mytilinum
+#Mytilinidion resinicola
+=Myrdu1
+***ASCOMYCOTA::Pezizomycotina::Dothideomycetes::Myriangiales
+#Myriangium duriaei
+=Clagr3
+***ASCOMYCOTA::Pezizomycotina::Lecanoromycetes::Lecanorales
+#Cladonia grayi
+=Xanpa2
+***ASCOMYCOTA::Pezizomycotina::Lecanoromycetes::Teloschistales
+#Xanthoria parietina
+=Amore1
+=Oidma1
+***ASCOMYCOTA::Pezizomycotina::Leotiomycetes::Leotiomycetes_incertae
+#Amorphotheca resinae 
+#Oidiodendron maius
+=Ascsa1
+=Botci1
+=Cadsp1
+=Glalo1
+=Lorju1
+=Marbr1
+=Melbi2
+=Rhier1
+=Sclsc1
+***ASCOMYCOTA::Pezizomycotina::Leotiomycetes::Helotiales
+#Ascocoryne sarcoides
+#Botrytis cinerea
+#Cadophora sp
+#Glarea lozoyensis
+#Loramyces juncicola
+#Marssonina brunnea
+#Meliniomyces bicolor
+#Rhizoscyphus ericae 
+#Sclerotinia sclerotiorum
+=Blugr1
+***ASCOMYCOTA::Pezizomycotina::Leotiomycetes::Erysiphales
+#Blumeria graminis
+=Themi1
+***ASCOMYCOTA::Pezizomycotina::Leotiomycetes::Thelebolales
+#Thelebolus microsporus
+=Acral2
+=Beaba1
+=Cormi1
+=Fusgr1
+=Ilysp1
+=Metac1
+=Myrin1
+=Nieex1
+=Trire2
+=Valla1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Hypocreales
+#Acremonium alcalophilum
+#Beauvaria bassiana
+#Cordyceps militaris
+#Fusarium graminearum
+#Ilyonectria sp 
+#Metarhizium acridum
+#Myrothecium inundatum
+#Niesslia exilis
+#Trichoderma reesei
+#Valetoniellopsis laxa
+=Antav1
+=Apimo1
+=DalEC12_1
+=Eutla1
+=HypCI4A_1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Xylariales
+#Anthostoma avocetla
+#Apiospora montagnei
+#Daldinia sp.
+#Eutypa lata
+#Hypoxylon sp
+=Colgr1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Glomerellales
+#Colletotrichum graminicola
+=Crypa2
+=Cryne_H99_1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Diaporthales
+#Cryphonectria parasitica
+=Grocl1
+=Ophpc1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Ophiostomatales
+#Grosmannia clavigera
+#Ophiostoma piceae
+=Maggr1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Magnaporthales
+#Magnaporthe grisea
+=Mictr1
+=Perma1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Microascales
+#Microascus trigonosporus
+#Periconia macrospinosa
+=Spoth2
+=Neucr2
+=Neucr1
+=Podan2
+=Thihy1
+=Chagl_1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Sordariales
+#Myceliophthora thermophila
+#Neurospora crassa
+#Podospora anserina
+#Thielavia hyrcaniae
+#Chateomium sp
+=Phaal1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Calosphaeriales
+#Phaeoacrimonium aleophilum
+=ThoPMI491_1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Chaetosphaeriales
+#Thozetella sp
+=Sodal1
+***ASCOMYCOTA::Pezizomycotina::Sordariomycetes::Glomerellales
+#Sodiomyces alkalinus
+=Symko1
+=Trigu1
+=Xylhe1
+***ASCOMYCOTA::Pezizomycotina::Xylonomycetes::Xylonomycetales
+#Symbiotaphrina kochii 
+#Trinosporium guianense
+#Xylona heveae
+=Ascru1
+=Ashgo1
+=Babin1
+=Arxad1
+=Canar1
+=Cepal1_1
+=Cybja1
+=Debha1
+=Dekbr2
+=Hanva1_1
+=Hanpo2
+=Hypbu1
+=Kazaf1
+=Klula1
+=Lipst1_1
+=Metbi1
+=Nadfu1
+=Pacta1_2
+=Picpa1
+=SacceYB210_1
+=Spapa3
+=Torde1
+=Tripe1
+=Yarli1
+***ASCOMYCOTA::Saccharomycotina::Saccharomycetes::Saccharomycetales
+#Ascoidea rubescens
+#Ashbya gossypii
+#Babjeviella inositovora 
+#Blastobotrys adeninivorans
+#Candida arabinofermentans
+#Cephaloascus albidus
+#Cyberlindnera jadinii
+#Debaryomyces hansenii
+#Dekkera bruxellensis
+#Hanseniaspora valbyensis
+#Hansenula polymorpha
+#Hyphopichia burtonii
+#Kazachstania africana
+#Kluyveromyces lactis
+#Lipomyces starkeyi 
+#Metschnikowia bicuspidata 
+#Nadsonia fulvescens
+#Pachysolen tannophilus 
+#Pichia pastoris
+#Saccharomyces cerevisiae
+#Spathaspora passalidarum 
+#Torulaspora delbrueckii
+#Trichomonascus petasosporus
+#Yarrowia lipolytica
+=Pneji1
+***ASCOMYCOTA::Taphrinomycotina::Pneumocystidomycetes::Pneumocystidales*
+#Pneumocystis jirovecii 
+=Saico1
+***ASCOMYCOTA::Taphrinomycotina::Taphrinomycotina_incertae::Taphrinomycotina_incertae
+#Saitoella complicata 
+=Schja1
+=Schpo1
+***ASCOMYCOTA::Taphrinomycotina::Schizosaccharomyctes::Schizosaccharomycetales
+#Schizosaccharomyces japonicus 
+#Schizosaccharomyces pombe
+=Tapde1_1
+***ASCOMYCOTA::Taphrinomycotina::Taphrinomycetes::Taphrinales
+#Taphrina deformans
+=Gloin1
+***GLOMEROMYCOTA::Glomeromycota::Glomeromycetes::Glomerales
+#Glomus intraradices
+=Bacci1
+=Hesve1
+=Lichy1
+=Mucci2
+=Phybl2
+=Umbra1
+=Rhior3
+***ZYGOMYCOTA::Mucoromycotina::Mucoromycotina::Mucorales
+#Backusella circina
+#Hesseltinella vesiculosa
+#Lichtheimia hyalospora
+#Mucor circinelloides
+#Phycomyces blakesleeanus
+#Umbelopsis ramanniana
+#Rhizopus oryzae
+=Conco1
+=Conth1
+***ZYGOMYCOTA::Entomophthoromycotina::Entomophthoromycetes::Entomophthorales*
+#Conidiobolus coronatus
+#Conidiobolus thromboides
+=Coere1
+=Marpt1
+=Rambr1
+***ZYGOMYCOTA::Kickxellomycotina::Kickxellomycotina::Kickxellales
+#Coemansia reversa
+#Martensiomyces pterosporus 
+#Ramicandelaber brevisporus
+=Catan1
+***BLASTOCLADIOMYCOTA::Blastocladiomycota::Blastocladiomycetes::Blastocladiales
+#Catenaria anguillulae
+=Batde5
+***CHYTRIDIOMYCOTA::Chytridiomycota::Chytridiomycetes::Rhizophydiales
+#Batrachochytrium dendrobatidis
+=Orpsp1_1
+=PirE2_1
+***NEOCALLIMASTIGOMYCOTA::Neocallimastigomycota::Neocallimastigomycetes::Neocallimastigales
+#Orpinomyces sp
+#Piromyces sp
+=Antlo1
+=Enccu1
+=Entbi1
+=Nempa1
+=Nosce1
+***MICROSPORIDIA::Microsporidia::Microsporidia::Microsporidia
+#Antonospora locustae
+#Encephalitozoon cuniculi
+#Enterocytozoon bieneusi
+#Nematocida parasitica
+#Nosema ceranae
+=Rozal1_1
+***CRYPTOMYCOTA::Cryptomycota::Cryptomycota::Cryptomycota
+#Rozella allomycis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
